@@ -18,7 +18,7 @@ def lo_model(model_add):
     except Exception as e:
         raise Exception(f"Failed to load model: {str(e)}")
 
-pre_model = lo_model('.\cognitive disorder pridiction\exp_01.h5')
+pre_model = lo_model('.\Coginitive Disorder Pridiction\exp_01.h5')
 chatbot = load_model('.\Mental health chatbot\model.h5')
 
 intents = json.loads(open('.\Mental health chatbot\intents.json').read())
