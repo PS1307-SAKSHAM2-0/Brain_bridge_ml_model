@@ -14,3 +14,12 @@
 ## Brain Waves
 
 ![dreamstime_m_29444815](https://github.com/Ketan-Singh-2110156/cognitive_disorder_pridiction/assets/114509252/0e0b6ea8-a0b7-4b69-b766-daee0baf37c4)
+
+# Chatbot
+
+* The chatbot is implemented using using Tensorflow.
+* it remembers the chat and give answers according to it.
+* The chatbot can help patient with some queries regarding mental health.
+* It also can work as a therapist for some questions.
+* It can suggest based upon your mental condition you should seek help or not.
+
